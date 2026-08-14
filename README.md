@@ -193,7 +193,7 @@ The dashboard enables users to explore:
 ![Real Sector](screenshots/real-sector.png)
 
 ---
-
+---
 ## 📁 Project Structure
 
 ```text
